@@ -16,7 +16,7 @@ A full-stack project management application built with **React**, **Spring Boot*
 
 ---
 
-## 🎨 Figma Integration
+## Figma Integration
 
 The frontend was designed and implemented based on a **Figma prototype** to ensure a clean, modern, and consistent UI/UX.
 
