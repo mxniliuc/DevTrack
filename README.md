@@ -2,8 +2,6 @@
 
 A full-stack project management application built with **React**, **Spring Boot**, and **MongoDB**.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-
 ---
 
 ##  Features
