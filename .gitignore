@@ -20,7 +20,6 @@ build/
 target/
 
 # Environment files
-.env
 *.local
 
 # Editor settings
