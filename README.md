@@ -87,3 +87,6 @@ Author
 
 Laurentiu Maniliuc
 
+Full-stack Developer
+📧 laurentiumaniliuc@gmail.com
+💼 https://www.linkedin.com/in/laurentiu-maniliuc-115986221/
