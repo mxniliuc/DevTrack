@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+target
+coverage
+**/.vite
+**/.turbo
+**/*.min.js
+src/backend/**
