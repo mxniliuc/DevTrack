@@ -13,7 +13,9 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/auth")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = {
+        "https://devtrack-4.onrender.com", 
+        "http://localhost:5173"            
 public class AuthController {
 
     @Autowired
