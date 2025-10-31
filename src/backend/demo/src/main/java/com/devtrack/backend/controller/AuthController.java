@@ -13,9 +13,6 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/auth")
-@CrossOrigin(origins = {
-        "https://devtrack-4.onrender.com", 
-        "http://localhost:5173"            
 public class AuthController {
 
     @Autowired
@@ -56,7 +53,6 @@ public class AuthController {
         }
 
         newUser.setPassword(passwordEncoder.encode(newUser.getPassword()));
-
         userRepository.save(newUser);
 
         return ResponseEntity.ok("{\"message\": \"User registered successfully\"}");
